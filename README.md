@@ -1,6 +1,6 @@
 # imageAI
-
 .env file contains:
+
 TELEGRAM_API_KEY=YOUR_API_KEY_HERE
 WEATHER_API_URL=https://api.openweathermap.org/data/2.5/weather
 WEATHER_API_KEY=YOUR_OPENWEATHERMAP_API_KEY
